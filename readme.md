@@ -102,34 +102,3 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Pick](https://github.com/bndw/pick) - Minimal password manager for OS X and Linux.
 * [1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password.
 
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
