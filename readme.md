@@ -101,4 +101,4 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Knox](https://github.com/pinterest/knox) - A secret management service.
 * [Pick](https://github.com/bndw/pick) - Minimal password manager for OS X and Linux.
 * [1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password.
-
+* [Transfer](https://transfer.sh/) - Easy file sharing from the command line.
