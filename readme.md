@@ -12,6 +12,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Security](#Security)
   * [Text Editors](#text-editors)
   * [Unix Shells](#unix-shells)
+  * [Version Control](#version-control)
   * [Virtualization](#virtualization)
 
 ## Academics
@@ -76,6 +77,11 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [Elvish](https://github.com/elves/elvish) - A friendly and expressive Unix shell.
 * [Fish](http://fishshell.com/) - The user-friendly command line shell.
+
+## Version Control
+*Version Control utilites*
+
+* [Gitless](http://gitless.com/) - A simple version control system built on top of Git.
 
 ## Virtualization
 *Virtualization tools.*
