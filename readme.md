@@ -18,6 +18,8 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Academics
 *Misc academic tools and utilities*
 
+* [jrnl](http://jrnl.sh/advanced.html) - Collect your thoughts and notes.
+
 ## Audio
 *Audio players, editors, and converters.*
 
