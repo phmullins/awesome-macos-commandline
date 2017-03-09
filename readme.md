@@ -8,6 +8,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Backups](#backups)
   * [Databases](#databases)
   * [File Managers](#file-managers)
+  * [Networking](#networking)
   * [Programming](#programming)
   * [Security](#Security)
   * [Text Editors](#text-editors)
@@ -48,6 +49,11 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *File management tools and utilities*
 
 * [Ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+
+## Networking
+*Networking tools and utilities*
+
+* [Storm](https://github.com/emre/storm) - Manage your SSH hosts like a boss.
 
 ## Programming
 *Various tools to aid in programming.*
