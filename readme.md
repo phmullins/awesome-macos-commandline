@@ -63,6 +63,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Glide](https://glide.sh/) - Package Management for Golang.
 * [Grumpy](https://github.com/google/grumpy) - A Python to Go source code transcompiler and runtime.
 * [Kitura](http://www.kitura.io/) - A Swift web framework and HTTP server.
+* [Perfect](https://www.perfect.org/) - Modern web framework for Swift.
 * [Stencil](https://stencil.fuller.li/en/latest/) - A simple and powerful template language for Swift.
 * [Swift](https://swift.org/) - The Swift Programming Language.
 * [swiftenv](https://swiftenv.fuller.li/en/latest/) - Swift Version Manager.
