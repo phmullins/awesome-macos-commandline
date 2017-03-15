@@ -10,6 +10,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [File Managers](#file-managers)
   * [Networking](#networking)
   * [Programming](#programming)
+  * [Searching](#searching)
   * [Security](#Security)
   * [Text Editors](#text-editors)
   * [Unix Shells](#unix-shells)
@@ -69,6 +70,11 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [swiftenv](https://swiftenv.fuller.li/en/latest/) - Swift Version Manager.
 * [Tailor](https://tailor.sh/) - Cross-platform static analyzer and linter for Swift.
 * [Vapor](https://vapor.codes/) - A web framework and server for Swift that works on macOS and Ubuntu.
+
+## Searching
+*Tools to help you find stuff*
+
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - Combines the usability of The Silver Searcher with the raw speed of grep.
 
 ## Security
 *Various security tools*
