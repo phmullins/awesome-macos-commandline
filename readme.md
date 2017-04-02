@@ -12,6 +12,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Programming](#programming)
   * [Searching](#searching)
   * [Security](#Security)
+  * [Shell Utilities](#shell-utilities)
   * [Text Editors](#text-editors)
   * [Unix Shells](#unix-shells)
   * [Version Control](#version-control)
@@ -75,6 +76,10 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *Tools to help you find stuff*
 
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Combines the usability of The Silver Searcher with the raw speed of grep.
+
+## Shell Utilities
+
+* [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 
 ## Security
 *Various security tools*
