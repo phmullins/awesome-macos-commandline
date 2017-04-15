@@ -6,13 +6,17 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Audio](#audio)
   * [Automation](#automation)
   * [Backups](#backups)
+  * [Communication](#communication)
   * [Databases](#databases)
   * [File Managers](#file-managers)
   * [Networking](#networking)
+  * [Password Managers](#password-managers)
   * [Programming](#programming)
+  * [Shell Utilities](#shell-utilities)
   * [Searching](#searching)
   * [Security](#Security)
   * [Shell Utilities](#shell-utilities)
+  * [System](#system)
   * [Text Editors](#text-editors)
   * [Unix Shells](#unix-shells)
   * [Version Control](#version-control)
@@ -40,6 +44,11 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [Rclone](http://rclone.org/) - A command line program to sync files and directories to the cloud.
 
+## Communication
+
+* [RaspChat](http://beta.raspchat.com) - A chat server that can run on Raspberry Pi.
+* [The Lounge](https://thelounge.github.io/) - Self-hosted web IRC client.
+
 ## Databases
 *Databases and database utilities*
 
@@ -55,7 +64,17 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Networking
 *Networking tools and utilities*
 
+* [Armor](https://armor.labstack.com/) - Uncomplicated, modern HTTP server.
+* [Hget](https://github.com/huydx/hget) - Rocket fast download accelerator.
+* [MacOS VPN](https://github.com/halo/macosvpn) - Create macOS VPNs programmatically.
 * [Storm](https://github.com/emre/storm) - Manage your SSH hosts like a boss.
+* [Transfer](https://transfer.sh/) - Easy file sharing from the command line.
+
+## Password Managers
+
+* [1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password.
+* [Pick](https://github.com/bndw/pick) - Minimal password manager for OS X and Linux.
+* [onepw](https://github.com/mkideal/onepw) - A command line tool for managing passwords.
 
 ## Programming
 *Various tools to aid in programming.*
@@ -84,9 +103,23 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Security
 *Various security tools*
 
+* [hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker.
+* [Knox](https://github.com/pinterest/knox) - A secret management service.
 * [OS X Auditor](https://github.com/jipegit/OSXAuditor) - A free MacOS computer forensics tool.
 * [Spoof](https://github.com/feross/spoof) - Change your MAC address for debugging.
+* [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
 * [vuls](https://github.com/future-architect/vuls) - Go-based, agentless vulnerability scanner.
+
+## System
+
+* [CollectD](http://collectd.org/) - System statistics collection daemon.
+* [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+* [fDupes](https://github.com/adrianlopezroche/fdupes) - Identifying and/or deleting duplicate files.
+* [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go.
+* [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
+* [Progress](https://github.com/Xfennec/progress) - Tool to show progress for cp, mv, dd.
+* [rmlint](http://rmlint.readthedocs.io) - Remove duplicates and other lint from your filesystem.
+* [Zazu](http://zazuapp.org/) - An open source app launcher.
 
 ## Text Editors
 
@@ -108,23 +141,3 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [Kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM.
 * [xhyve](http://www.xhyve.org/) - Lightweight OS X virtualization solution.
-
-## Misc
-* [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
-* [Zazu](http://zazuapp.org/) - An open source app launcher.
-* [Hget](https://github.com/huydx/hget) - Rocket fast download accelerator.
-* [CollectD](http://collectd.org/) - System statistics collection daemon.
-* [rmlint](http://rmlint.readthedocs.io) - Remove duplicates and other lint from your filesystem.
-* [fDupes](https://github.com/adrianlopezroche/fdupes) - Identifying and/or deleting duplicate files.
-* [Armor](https://armor.labstack.com/) - Uncomplicated, modern HTTP server.
-* [MacOS VPN](https://github.com/halo/macosvpn) - Create macOS VPNs programmatically.
-* [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
-* [The Lounge](https://thelounge.github.io/) - Self-hosted web IRC client.
-* [RaspChat](http://beta.raspchat.com) - A chat server that can run on Raspberry Pi.
-* [onepw](https://github.com/mkideal/onepw) - A command line tool for managing passwords.
-* [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
-* [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go.
-* [Knox](https://github.com/pinterest/knox) - A secret management service.
-* [Pick](https://github.com/bndw/pick) - Minimal password manager for OS X and Linux.
-* [1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password.
-* [Transfer](https://transfer.sh/) - Easy file sharing from the command line.
