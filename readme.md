@@ -14,7 +14,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Programming](#programming)
   * [Shell Utilities](#shell-utilities)
   * [Searching](#searching)
-  * [Security](#Security)
+  * [Security](#security)
   * [Shell Utilities](#shell-utilities)
   * [System](#system)
   * [Text Editors](#text-editors)
