@@ -94,6 +94,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Searching
 *Tools to help you find stuff*
 
+* [fzy](https://github.com/jhawthorn/fzy) - A better fuzzy finder.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Combines the usability of The Silver Searcher with the raw speed of grep.
 
 ## Shell Utilities
