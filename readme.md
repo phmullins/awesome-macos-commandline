@@ -141,4 +141,5 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *Virtualization tools.*
 
 * [Kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM.
+* [vagrant-veertu](https://github.com/veertuinc/vagrant-veertu) - Vagrant plugin for veertu.
 * [xhyve](http://www.xhyve.org/) - Lightweight OS X virtualization solution.
