@@ -92,6 +92,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [swiftenv](https://swiftenv.fuller.li/en/latest/) - Swift Version Manager.
 * [Tailor](https://tailor.sh/) - Cross-platform static analyzer and linter for Swift.
 * [Vapor](https://vapor.codes/) - A web framework and server for Swift that works on macOS and Ubuntu.
+* [Zewo](http://www.zewo.io/) - Build server software in Swift.
 
 ## Searching
 *Tools to help you find stuff*
