@@ -37,6 +37,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Automation
 
 * [Capistrano](http://capistranorb.com) - Remote multi-server automation tool.
+* [Molecule](http://molecule.readthedocs.io/en/master/) - Automated testing for Ansible roles.
 * [Posixcube](https://github.com/myplaceonline/posixcube) - Shell script-based server automation framework.
 
 ## Backups
