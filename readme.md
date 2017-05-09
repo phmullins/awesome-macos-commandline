@@ -67,6 +67,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *Networking tools and utilities*
 
 * [Armor](https://armor.labstack.com/) - Uncomplicated, modern HTTP server.
+* [Duck](https://duck.sh/) - Cyberduck for the command line interface (CLI).
 * [Hget](https://github.com/huydx/hget) - Rocket fast download accelerator.
 * [MacOS VPN](https://github.com/halo/macosvpn) - Create macOS VPNs programmatically.
 * [Storm](https://github.com/emre/storm) - Manage your SSH hosts like a boss.
