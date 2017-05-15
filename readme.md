@@ -53,6 +53,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Databases
 *Databases and database utilities*
 
+* [mycli](http://mycli.net/) - A Terminal Client for MySQL.
 * [Pex](https://github.com/petere/pex) - Light-weight package manager for PostgreSQL.
 * [Postgrest](http://postgrest.com) - REST API for any Postgres database.
 * [RethinkDB](https://rethinkdb.com/) - The open-source database for the realtime web.
