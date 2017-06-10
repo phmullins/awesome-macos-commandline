@@ -74,6 +74,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [MacOS VPN](https://github.com/halo/macosvpn) - Create macOS VPNs programmatically.
 * [Storm](https://github.com/emre/storm) - Manage your SSH hosts like a boss.
 * [Transfer](https://transfer.sh/) - Easy file sharing from the command line.
+* [You-Get](https://you-get.org/) - Tiny download utility.
 
 ## Password Managers
 
