@@ -85,6 +85,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Programming
 *Various tools to aid in programming.*
 
+* [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
 * [Echo](https://echo.labstack.com/) - High performance, minimalist Go web framework.
 * [Go](https://golang.org/) - The Go programming language.
 * [Glide](https://glide.sh/) - Package Management for Golang.
@@ -125,6 +126,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [CollectD](http://collectd.org/) - System statistics collection daemon.
 * [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+* [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to find.
 * [fDupes](https://github.com/adrianlopezroche/fdupes) - Identifying and/or deleting duplicate files.
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go.
 * [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
