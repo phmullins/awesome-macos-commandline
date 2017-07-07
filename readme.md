@@ -145,6 +145,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [Elvish](https://github.com/elves/elvish) - A friendly and expressive Unix shell.
 * [Fish](http://fishshell.com/) - The user-friendly command line shell.
+* [zsh](http://zsh.sourceforge.net/) - A shell designed for interactive use.
 
 ## Version Control
 *Version Control utilites*
