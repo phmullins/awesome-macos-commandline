@@ -45,6 +45,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *Backup software.*
 
 * [Rclone](http://rclone.org/) - A command line program to sync files and directories to the cloud.
+* [Rsync Time](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 
 ## Communication
 
