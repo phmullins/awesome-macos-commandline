@@ -128,6 +128,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## System
 
 * [CollectD](http://collectd.org/) - System statistics collection daemon.
+* [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal `ls` command.
 * [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 * [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to find.
 * [fDupes](https://github.com/adrianlopezroche/fdupes) - Identifying and/or deleting duplicate files.
