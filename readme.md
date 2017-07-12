@@ -114,6 +114,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 * [pv](https://www.ivarch.com/programs/pv.shtml) - Monitor the progress of data through a pipeline.
+* [tmate](https://tmate.io/) - Instant terminal sharing.
 
 ## Security
 *Various security tools*
