@@ -34,6 +34,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [mpd](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpc](https://www.musicpd.org/clients/mpc/) - A solid, lightweight, simple mpd client, written in C.
 * [ncmpc](https://www.musicpd.org/clients/ncmpc/) - ncmpc is a fully featured MPD client.
+* [switchaudio](https://github.com/deweller/switchaudio-osx) - Change the audio source for macOS.
 
 ## Automation
 
