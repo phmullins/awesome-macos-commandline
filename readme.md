@@ -118,6 +118,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Shell Utilities
 
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal `ls` command.
+* [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
 * [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 * [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to find.
 * [pv](https://www.ivarch.com/programs/pv.shtml) - Monitor the progress of data through a pipeline.
