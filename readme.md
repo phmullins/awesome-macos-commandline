@@ -85,7 +85,8 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password.
 * [Ironclad](https://github.com/dmulholland/ironclad) - A command line password manager.
 * [pass](https://www.passwordstore.org/) - The standard unix password manager.
-* [Pick](https://github.com/bndw/pick) - Minimal password manager for OS X and Linux.
+* [pass-tomb](https://github.com/roddhjav/pass-tomb) -  Store password encrypted inside a tomb.
+* [pick](https://github.com/bndw/pick) - Minimal password manager for OS X and Linux.
 * [onepw](https://github.com/mkideal/onepw) - A command line tool for managing passwords.
 
 ## Programming
