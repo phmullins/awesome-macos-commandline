@@ -88,6 +88,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [pass-tomb](https://github.com/roddhjav/pass-tomb) -  Store password encrypted inside a tomb.
 * [pick](https://github.com/bndw/pick) - Minimal password manager for OS X and Linux.
 * [onepw](https://github.com/mkideal/onepw) - A command line tool for managing passwords.
+* [Tomb](https://github.com/dyne/Tomb) - The Crypto Undertaker.
 
 ## Programming
 *Various tools to aid in programming.*
