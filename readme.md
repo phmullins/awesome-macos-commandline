@@ -104,6 +104,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Refined](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface.
 * [Perfect](https://www.perfect.org/) - Modern web framework for Swift.
 * [Stencil](https://stencil.fuller.li/en/latest/) - A simple and powerful template language for Swift.
+* [Sup](https://github.com/pressly/sup) - Super simple deployment tool.
 * [Swift](https://swift.org/) - The Swift Programming Language.
 * [swiftenv](https://swiftenv.fuller.li/en/latest/) - Swift Version Manager.
 * [Tailor](https://tailor.sh/) - Cross-platform static analyzer and linter for Swift.
