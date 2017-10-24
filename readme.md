@@ -107,6 +107,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Sup](https://github.com/pressly/sup) - Super simple deployment tool.
 * [Swift](https://swift.org/) - The Swift Programming Language.
 * [swiftenv](https://swiftenv.fuller.li/en/latest/) - Swift Version Manager.
+* [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 * [Tailor](https://tailor.sh/) - Cross-platform static analyzer and linter for Swift.
 * [Vapor](https://vapor.codes/) - A web framework and server for Swift that works on macOS and Ubuntu.
 * [Zewo](http://www.zewo.io/) - Build server software in Swift.
@@ -121,6 +122,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Shell Utilities
 
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal `ls` command.
+* [Dat](https://datproject.org/) - Distributed data sharing tool.
 * [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
 * [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 * [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to find.
