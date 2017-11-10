@@ -116,7 +116,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *Tools to help you find stuff*
 
 * [fzy](https://github.com/jhawthorn/fzy) - A better fuzzy finder.
-* [Peco}(https://github.com/peco/peco) - Simplistic interactive filtering tool.
+* [Peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Combines the usability of The Silver Searcher with the raw speed of grep.
 
 ## Shell Utilities
@@ -135,7 +135,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker.
 * [Knox](https://github.com/pinterest/knox) - A secret management service.
-* [OS X Auditor](https://github.com/jipegit/OSXAuditor) - A free MacOS computer forensics tool.
+* [MacOS Auditor](https://github.com/jipegit/OSXAuditor) - A free MacOS computer forensics tool.
 * [Spoof](https://github.com/feross/spoof) - Change your MAC address for debugging.
 * [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
 * [vuls](https://github.com/future-architect/vuls) - Go-based, agentless vulnerability scanner.
@@ -147,9 +147,9 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [fDupes](https://github.com/adrianlopezroche/fdupes) - Identifying and/or deleting duplicate files.
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go.
 * [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
-* [Progress](https://github.com/Xfennec/progress) - Tool to show progress for cp, mv, dd.
+* [progress](https://github.com/Xfennec/progress) - Tool to show progress for cp, mv, dd.
 * [rmlint](http://rmlint.readthedocs.io) - Remove duplicates and other lint from your filesystem.
-* [Zazu](http://zazuapp.org/) - An open source app launcher.
+* [zazu](http://zazuapp.org/) - An open source app launcher.
 
 ## Text Editors
 
