@@ -8,6 +8,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Backups](#backups)
   * [Communication](#communication)
   * [Databases](#databases)
+  * [DevOps](#devops)
   * [File Managers](#file-managers)
   * [Networking](#networking)
   * [Password Managers](#password-managers)
@@ -61,6 +62,11 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [pgcli](https://www.pgcli.com/) - Postgres CLI with autocompletion.
 * [Postgrest](http://postgrest.com) - REST API for any Postgres database.
 * [RethinkDB](https://rethinkdb.com/) - The open-source database for the realtime web.
+
+## DevOps
+*DevOps tools and utilities*
+
+* [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 
 ## File Managers
 *File management tools and utilities*
