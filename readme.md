@@ -67,6 +67,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *DevOps tools and utilities*
 
 * [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
+* [Minishift](https://github.com/minishift/minishift) - Run OpenShift locally.
 
 ## File Managers
 *File management tools and utilities*
