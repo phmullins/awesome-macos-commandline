@@ -107,6 +107,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Grumpy](https://github.com/google/grumpy) - A Python to Go source code transcompiler and runtime.
 * [Kitura](http://www.kitura.io/) - A Swift web framework and HTTP server.
 * [Legit](http://www.git-legit.org/) - Legit is a complementary command-line interface for Git.
+* [Marathon](https://github.com/JohnSundell/Marathon) - Run and manage your Swift scripts.
 * [Paket](https://fsprojects.github.io/Paket/index.html) - A dependency manager for .NET and mono projects.
 * [Refined](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface.
 * [Perfect](https://www.perfect.org/) - Modern web framework for Swift.
@@ -146,6 +147,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [MacOS Auditor](https://github.com/jipegit/OSXAuditor) - A free MacOS computer forensics tool.
 * [Spoof](https://github.com/feross/spoof) - Change your MAC address for debugging.
 * [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
+* [Vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments.
 * [vuls](https://github.com/future-architect/vuls) - Go-based, agentless vulnerability scanner.
 
 ## System
