@@ -154,6 +154,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [CollectD](http://collectd.org/) - System statistics collection daemon.
 * [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+* [Email Archiver Pro](https://emailarchiverpro.com/) - Archiving made simple.
 * [fDupes](https://github.com/adrianlopezroche/fdupes) - Identifying and/or deleting duplicate files.
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go.
 * [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
