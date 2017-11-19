@@ -13,7 +13,6 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Networking](#networking)
   * [Password Managers](#password-managers)
   * [Programming](#programming)
-  * [Shell Utilities](#shell-utilities)
   * [Searching](#searching)
   * [Security](#security)
   * [Shell Utilities](#shell-utilities)
@@ -130,6 +129,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 ## Shell Utilities
 
+* [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal `ls` command.
 * [Dat](https://datproject.org/) - Distributed data sharing tool.
 * [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
