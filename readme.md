@@ -86,6 +86,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Storm](https://github.com/emre/storm) - Manage your SSH hosts like a boss.
 * [Transfer](https://transfer.sh/) - Easy file sharing from the command line.
 * [You-Get](https://you-get.org/) - Tiny download utility.
+* [youtube-dl](http://rg3.github.io/youtube-dl/) - Download videos from YouTube.com and other video sites.
 
 ## Password Managers
 
