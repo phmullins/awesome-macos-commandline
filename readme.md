@@ -82,6 +82,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [caddy](https://caddyserver.com/) - Caddy is the HTTP/2 web server with automatic HTTPS.
 * [Duck](https://duck.sh/) - Cyberduck for the command line interface (CLI).
 * [Hget](https://github.com/huydx/hget) - Rocket fast download accelerator.
+* [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client.
 * [MacOS VPN](https://github.com/halo/macosvpn) - Create macOS VPNs programmatically.
 * [Storm](https://github.com/emre/storm) - Manage your SSH hosts like a boss.
 * [Transfer](https://transfer.sh/) - Easy file sharing from the command line.
