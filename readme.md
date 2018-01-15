@@ -84,6 +84,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Hget](https://github.com/huydx/hget) - Rocket fast download accelerator.
 * [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client.
 * [MacOS VPN](https://github.com/halo/macosvpn) - Create macOS VPNs programmatically.
+* [manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
 * [Storm](https://github.com/emre/storm) - Manage your SSH hosts like a boss.
 * [Transfer](https://transfer.sh/) - Easy file sharing from the command line.
 * [You-Get](https://you-get.org/) - Tiny download utility.
