@@ -10,6 +10,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Databases](#databases)
   * [DevOps](#devops)
   * [File Managers](#file-managers)
+  * [Graphics](#graphics)
   * [Networking](#networking)
   * [Password Managers](#password-managers)
   * [Programming](#programming)
@@ -74,6 +75,10 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [nnn](https://github.com/jarun/nnn) - The missing terminal file browser.
 * [Ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+
+## Graphics
+
+* [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
 
 ## Networking
 *Networking tools and utilities*
