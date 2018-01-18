@@ -145,6 +145,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 * [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to find.
 * [pv](https://www.ivarch.com/programs/pv.shtml) - Monitor the progress of data through a pipeline.
+* [Terminal Velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 * [tmate](https://tmate.io/) - Instant terminal sharing.
 * [Watchman](https://facebook.github.io/watchman/) - A file watching service.
 * [Wiki](https://github.com/prologic/wiki) -  Self-hosted wiki engine.
