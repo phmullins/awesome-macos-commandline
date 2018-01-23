@@ -110,6 +110,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *Various tools to aid in programming.*
 
 * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
+* [devd](https://github.com/cortesi/devd) - A local webserver for developers.
 * [Echo](https://echo.labstack.com/) - High performance, minimalist Go web framework.
 * [Go](https://golang.org/) - The Go programming language.
 * [Glide](https://glide.sh/) - Package Management for Golang.
