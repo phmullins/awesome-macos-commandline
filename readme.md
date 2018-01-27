@@ -75,6 +75,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [nnn](https://github.com/jarun/nnn) - The missing terminal file browser.
 * [Ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
+* [modd](https://github.com/cortesi/modd) - A flexible tool for responding to filesystem changes.
 
 ## Graphics
 
