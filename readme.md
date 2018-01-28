@@ -75,7 +75,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [nnn](https://github.com/jarun/nnn) - The missing terminal file browser.
 * [Ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
-* [modd](https://github.com/cortesi/modd) - A flexible tool for responding to filesystem changes.
+* [modd](https://github.com/cortesi/modd) - A flexible tool for responding to filesystem changes.ƒ
 
 ## Graphics
 
@@ -89,6 +89,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Duck](https://duck.sh/) - Cyberduck for the command line interface (CLI).
 * [Hget](https://github.com/huydx/hget) - Rocket fast download accelerator.
 * [hippo](https://github.com/cortesi/hippo) - Host configuration file management based on git.
+* [homebridge](https://github.com/nfarina/homebridge) - HomeKit support for the impatient.
 * [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client.
 * [MacOS VPN](https://github.com/halo/macosvpn) - Create macOS VPNs programmatically.
 * [manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
