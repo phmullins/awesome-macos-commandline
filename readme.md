@@ -54,6 +54,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [RaspChat](http://beta.raspchat.com) - A chat server that can run on Raspberry Pi.
 * [The Lounge](https://thelounge.github.io/) - Self-hosted web IRC client.
+* [tg](https://github.com/vysheng/tg) - Command Line Telegram.
 
 ## Databases
 *Databases and database utilities*
