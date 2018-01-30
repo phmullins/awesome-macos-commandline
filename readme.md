@@ -52,6 +52,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 ## Communication
 
+* [mastodon](https://github.com/tootsuite/mastodon) - Self-hosted, globally interconnected microblogging community.
 * [RaspChat](http://beta.raspchat.com) - A chat server that can run on Raspberry Pi.
 * [The Lounge](https://thelounge.github.io/) - Self-hosted web IRC client.
 * [tg](https://github.com/vysheng/tg) - Command Line Telegram.
