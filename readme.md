@@ -122,7 +122,6 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Kitura](http://www.kitura.io/) - A Swift web framework and HTTP server.
 * [Legit](http://www.git-legit.org/) - Legit is a complementary command-line interface for Git.
 * [Marathon](https://github.com/JohnSundell/Marathon) - Run and manage your Swift scripts.
-* [Mech](https://github.com/ColdHeat/mech) - Easy command-line virtual machines.
 * [Paket](https://fsprojects.github.io/Paket/index.html) - A dependency manager for .NET and mono projects.
 * [Refined](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface.
 * [Perfect](https://www.perfect.org/) - Modern web framework for Swift.
@@ -201,5 +200,6 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *Virtualization tools.*
 
 * [Kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM.
+* [Mech](https://github.com/ColdHeat/mech) - Easy command-line virtual machines.
 * [vagrant-veertu](https://github.com/veertuinc/vagrant-veertu) - Vagrant plugin for veertu.
 * [xhyve](http://www.xhyve.org/) - Lightweight OS X virtualization solution.
