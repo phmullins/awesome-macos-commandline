@@ -49,6 +49,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Rclone](http://rclone.org/) - A command line program to sync files and directories to the cloud.
 * [Rsync Time](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 * [restic](https://restic.net/) - Backups done right!
+* [s3cmd](http://s3tools.org/usage) - Command Line S3 Client Software and S3 Backup.
 
 ## Communication
 
@@ -203,3 +204,5 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Mech](https://github.com/ColdHeat/mech) - Easy command-line virtual machines.
 * [vagrant-veertu](https://github.com/veertuinc/vagrant-veertu) - Vagrant plugin for veertu.
 * [xhyve](http://www.xhyve.org/) - Lightweight OS X virtualization solution.
+
+
