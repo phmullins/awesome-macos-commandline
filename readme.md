@@ -1,4 +1,4 @@
-## Awesome Command-Line Apps!
+x## Awesome Command-Line Apps!
 
 A curated list of fantastically awesome command-line software for Linux and MacOS.
 
@@ -179,6 +179,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 * [progress](https://github.com/Xfennec/progress) - Tool to show progress for cp, mv, dd.
 * [rmlint](http://rmlint.readthedocs.io) - Remove duplicates and other lint from your filesystem.
+* [statik](https://getstatik.com/) - Static web site generator. 
 * [zazu](http://zazuapp.org/) - An open source app launcher.
 
 ## Text Editors
