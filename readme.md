@@ -21,6 +21,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Text Editors](#text-editors)
   * [Unix Shells](#unix-shells)
   * [Version Control](#version-control)
+  * [Video](#video)
   * [Virtualization](#virtualization)
 
 ## Academics
@@ -176,9 +177,11 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Email Archiver Pro](https://emailarchiverpro.com/) - Archiving made simple.
 * [fDupes](https://github.com/adrianlopezroche/fdupes) - Identifying and/or deleting duplicate files.
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go.
+* [ivy](http://mulholland.xyz/docs/ivy/) - A static website generator built in Python.
 * [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 * [progress](https://github.com/Xfennec/progress) - Tool to show progress for cp, mv, dd.
 * [rmlint](http://rmlint.readthedocs.io) - Remove duplicates and other lint from your filesystem.
+* [shiori](https://github.com/RadhiFadlillah/shiori) - Shiori is a simple bookmarks manager written in Go.
 * [statik](https://getstatik.com/) - Static web site generator. 
 * [zazu](http://zazuapp.org/) - An open source app launcher.
 
@@ -197,6 +200,9 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 *Version Control utilites*
 
 * [Gitless](http://gitless.com/) - A simple version control system built on top of Git.
+
+## Video
+* [Annie](https://github.com/iawia002/annie) - a fast, simple and clean video downloader.
 
 ## Virtualization
 *Virtualization tools.*
