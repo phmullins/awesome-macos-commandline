@@ -165,6 +165,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker.
 * [Knox](https://github.com/pinterest/knox) - A secret management service.
 * [MacOS Auditor](https://github.com/jipegit/OSXAuditor) - A free MacOS computer forensics tool.
+* [SeKey](https://github.com/ntrippar/sekey) - Authenticate to UNIX/Linux SSH servers using the Secure Enclave.
 * [Spoof](https://github.com/feross/spoof) - Change your MAC address for debugging.
 * [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
 * [Vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments.
