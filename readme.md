@@ -79,7 +79,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [nnn](https://github.com/jarun/nnn) - The missing terminal file browser.
 * [Ranger](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
-* [modd](https://github.com/cortesi/modd) - A flexible tool for responding to filesystem changes.ƒ
+* [modd](https://github.com/cortesi/modd) - A flexible tool for responding to filesystem changes.
 
 ## Graphics
 
@@ -120,6 +120,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Echo](https://echo.labstack.com/) - High performance, minimalist Go web framework.
 * [Go](https://golang.org/) - The Go programming language.
 * [Glide](https://glide.sh/) - Package Management for Golang.
+* [Gripp]() - Preview GitHub Markdown files locally before committing them.
 * [Grumpy](https://github.com/google/grumpy) - A Python to Go source code transcompiler and runtime.
 * [Kitura](http://www.kitura.io/) - A Swift web framework and HTTP server.
 * [Legit](http://www.git-legit.org/) - Legit is a complementary command-line interface for Git.
