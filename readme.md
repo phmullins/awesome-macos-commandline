@@ -23,6 +23,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Version Control](#version-control)
   * [Video](#video)
   * [Virtualization](#virtualization)
+  * [Writing](#writing)
 
 ## Academics
 *Misc academic tools and utilities*
@@ -213,5 +214,8 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [Mech](https://github.com/ColdHeat/mech) - Easy command-line virtual machines.
 * [vagrant-veertu](https://github.com/veertuinc/vagrant-veertu) - Vagrant plugin for veertu.
 * [xhyve](http://www.xhyve.org/) - Lightweight OS X virtualization solution.
+
+## Writing
+[Proselint](http://proselint.com/) - A linter for prose.
 
 
