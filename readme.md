@@ -167,7 +167,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker.
 * [Knox](https://github.com/pinterest/knox) - A secret management service.
 * [MacOS Auditor](https://github.com/jipegit/OSXAuditor) - A free MacOS computer forensics tool.
-* [Safe](https://github.com/starkandwayne/safe) - A Vault CLI tool.
+* [Safe](https://github.com/starkandwayne/safe) - A CLI front-end for the Vault app.
 * [SeKey](https://github.com/ntrippar/sekey) - Authenticate to UNIX/Linux SSH servers using the Secure Enclave.
 * [Spoof](https://github.com/feross/spoof) - Change your MAC address for debugging.
 * [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
@@ -187,6 +187,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [rmlint](http://rmlint.readthedocs.io) - Remove duplicates and other lint from your filesystem.
 * [shiori](https://github.com/RadhiFadlillah/shiori) - Shiori is a simple bookmarks manager written in Go.
 * [statik](https://getstatik.com/) - Static web site generator. 
+* [stow](https://www.gnu.org/software/stow/) - A symlink farm manager.
 * [zazu](http://zazuapp.org/) - An open source app launcher.
 
 ## Text Editors
