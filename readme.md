@@ -1,4 +1,4 @@
-x## Awesome Command-Line Apps!
+## Awesome Command-Line Apps!
 
 A curated list of fantastically awesome command-line software for Linux and MacOS.
 
