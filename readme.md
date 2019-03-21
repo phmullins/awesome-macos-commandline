@@ -7,6 +7,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [Automation](#automation)
   * [Backups](#backups)
   * [Communication](#communication)
+  * [Compression](#compressioin)
   * [Databases](#databases)
   * [DevOps](#devops)
   * [File Managers](#file-managers)
@@ -59,6 +60,10 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [RaspChat](http://beta.raspchat.com) - A chat server that can run on Raspberry Pi.
 * [The Lounge](https://thelounge.github.io/) - Self-hosted web IRC client.
 * [tg](https://github.com/vysheng/tg) - Command Line Telegram.
+
+## Compression
+
+- [p7zip](http://p7zip.sourceforge.net/) - A port of 7za.exe for POSIX systems.
 
 ## Databases
 *Databases and database utilities*
