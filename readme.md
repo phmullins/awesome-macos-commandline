@@ -189,6 +189,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go.
 * [ivy](http://mulholland.xyz/docs/ivy/) - A static website generator built in Python.
 * [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
+- [Nix](https://nixos.org/nix/manual/#chap-quick-start) - Nix package manager for MacOS.
 * [progress](https://github.com/Xfennec/progress) - Tool to show progress for cp, mv, dd.
 * [rmlint](http://rmlint.readthedocs.io) - Remove duplicates and other lint from your filesystem.
 * [shiori](https://github.com/RadhiFadlillah/shiori) - Shiori is a simple bookmarks manager written in Go.
