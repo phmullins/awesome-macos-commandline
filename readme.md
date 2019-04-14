@@ -231,5 +231,5 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
 
 ## License
-Source is released under the Zero Clause BSD license (0BSD) [license](license.md).
+Source is released under the MIT License (MIT) [license](license.md).
 
