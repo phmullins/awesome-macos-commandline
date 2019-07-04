@@ -155,13 +155,15 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 ## Shell Utilities
 
 * [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [bat](https://github.com/sharkdp/bat) - OSS cat replacement.
 * [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal `ls` command.
-* [Dat](https://datproject.org/) - Distributed data sharing tool.
+* [dat](https://datproject.org/) - Distributed data sharing tool.
 * [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
 * [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 * [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to find.
 * [pv](https://www.ivarch.com/programs/pv.shtml) - Monitor the progress of data through a pipeline.
 * [Terminal Velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
+- [tldr](https://tldr.sh/) - Simplified and community-driven man pages.
 * [tmate](https://tmate.io/) - Instant terminal sharing.
 * [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 * [Watchman](https://facebook.github.io/watchman/) - A file watching service.
