@@ -12,6 +12,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
   * [DevOps](#devops)
   * [File Managers](#file-managers)
   * [Graphics](#graphics)
+  * [Infrastructure Management](#infrastructure-management)
   * [Networking](#networking)
   * [Password Managers](#password-managers)
   * [Programming](#programming)
@@ -92,11 +93,15 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 
 * [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
 
+## Infrastructure Management
+
+- [Terraform](https://www.terraform.io/) - Write, Plan, and Create Infrastructure as Code.
+
 ## Networking
 *Networking tools and utilities*
 
 * [Armor](https://armor.labstack.com/) - Uncomplicated, modern HTTP server.
-* [caddy](https://caddyserver.com/) - Caddy is the HTTP/2 web server with automatic HTTPS.
+* [Caddy](https://caddyserver.com/) - Caddy is the HTTP/2 web server with automatic HTTPS.
 * [Duck](https://duck.sh/) - Cyberduck for the command line interface (CLI).
 * [Hget](https://github.com/huydx/hget) - Rocket fast download accelerator.
 * [hippo](https://github.com/cortesi/hippo) - Host configuration file management based on git.
