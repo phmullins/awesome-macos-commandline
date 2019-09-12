@@ -1,6 +1,6 @@
 ## Awesome Command-Line Apps!
 
-A curated list of fantastically awesome command-line software for Linux and MacOS.
+A curated list of fantastically awesome command-line software for MacOS.
 
   * [Academics](#academics)
   * [Audio](#audio)
@@ -166,6 +166,7 @@ A curated list of fantastically awesome command-line software for Linux and MacO
 * [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
 * [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 * [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to find.
+- [ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 * [pv](https://www.ivarch.com/programs/pv.shtml) - Monitor the progress of data through a pipeline.
 * [Terminal Velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 - [tldr](https://tldr.sh/) - Simplified and community-driven man pages.
