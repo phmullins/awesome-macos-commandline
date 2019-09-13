@@ -18,6 +18,7 @@ A curated list of fantastically awesome command-line software for MacOS.
   * [Programming](#programming)
   * [Searching](#searching)
   * [Security](#security)
+  * [Shells](#shells)
   * [Shell Utilities](#shell-utilities)
   * [System](#system)
   * [Text Editors](#text-editors)
@@ -156,6 +157,10 @@ A curated list of fantastically awesome command-line software for MacOS.
 * [fzy](https://github.com/jhawthorn/fzy) - A better fuzzy finder.
 * [Peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Combines the usability of The Silver Searcher with the raw speed of grep.
+
+## Shells
+
+- [Nu Shell](https://github.com/nushell/nushell) - A modern shell for the GitHub era.
 
 ## Shell Utilities
 
