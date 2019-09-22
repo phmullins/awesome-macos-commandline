@@ -1,6 +1,7 @@
-## Awesome Command-Line Apps!
+## Awesome macOS command-line apps!
 
-A curated list of fantastically awesome command-line software for MacOS.
+A curated list of fantastically awesome command-line software for macOS. This list was inspired by 
+[Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
 
   * [Academics](#academics)
   * [Audio](#audio)
@@ -92,7 +93,8 @@ A curated list of fantastically awesome command-line software for MacOS.
 
 ## Graphics
 
-* [imgp](https://github.com/jarun/imgp) - Multi-core batch image resizer and rotator.
+* [imgp](https://github.com/jarun/imgp) - Multi-core 
+ch image resizer and rotator.
 
 ## Infrastructure Management
 
