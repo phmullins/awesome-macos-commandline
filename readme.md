@@ -174,7 +174,7 @@ ch image resizer and rotator.
 * [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 * [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to find.
 - [ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
-* [pv](https://www.ivarch.com/programs/pv.shtml) - Monitor the progress of data through a pipeline.
+- [pv](https://www.ivarch.com/programs/pv.shtml) - Monitor the progress of data through a pipeline.
 * [Terminal Velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app for the UNIX terminal.
 - [tldr](https://tldr.sh/) - Simplified and community-driven man pages.
 * [tmate](https://tmate.io/) - Instant terminal sharing.
