@@ -58,7 +58,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [s3cmd](http://s3tools.org/usage) - Command Line S3 Client Software and S3 Backup.
 
 ## Communication
-
+*Communication Applications*
 - [mastodon](https://github.com/tootsuite/mastodon) - Self-hosted, globally interconnected microblogging community.
 - [RaspChat](http://beta.raspchat.com) - A chat server that can run on Raspberry Pi.
 - [The Lounge](https://thelounge.github.io/) - Self-hosted web IRC client.
