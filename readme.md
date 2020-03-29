@@ -181,6 +181,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [Watchman](https://facebook.github.io/watchman/) - A file watching service.
 - [Wiki](https://github.com/prologic/wiki) -  Self-hosted wiki engine.
+- [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
 
 ## Security
 *Various security tools*
