@@ -167,6 +167,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [bat](https://github.com/sharkdp/bat) - OSS cat replacement.
+- [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal `ls` command.
 - [dat](https://datproject.org/) - Distributed data sharing tool.
 - [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
