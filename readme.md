@@ -183,6 +183,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Watchman](https://facebook.github.io/watchman/) - A file watching service.
 - [Wiki](https://github.com/prologic/wiki) -  Self-hosted wiki engine.
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
+- [zenith](https://github.com/bvaisvil/zenith) - Like top or htop but with zoom-able charts, network, and disk usage. 
 
 ## Security
 *Various security tools*
