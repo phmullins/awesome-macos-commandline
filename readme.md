@@ -163,6 +163,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 - [fish](https://fishshell.com/) - User-friendly command-line shell.
 - [Nu Shell](https://github.com/nushell/nushell) - A modern shell for the GitHub era.
+- [zsh](https://www.zsh.org/) - Powerful interactive shell.
 
 ## Shell Utilities
 
