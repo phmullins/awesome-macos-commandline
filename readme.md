@@ -23,7 +23,6 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Shell Utilities](#shell-utilities)
 - [System](#system)
 - [Text Editors](#text-editors)
-- [Unix Shells](#unix-shells)
 - [Version Control](#version-control)
 - [Video](#video)
 - [Virtualization](#virtualization)
@@ -161,8 +160,10 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ## Shells
 
+- [Elvish](https://github.com/elves/elvish) - A friendly and expressive Unix shell.
 - [fish](https://fishshell.com/) - User-friendly command-line shell.
 - [Nu Shell](https://github.com/nushell/nushell) - A modern shell for the GitHub era.
+- [powershell](https://github.com/powershell/powershell) -  Microsoft PowerShell.
 - [zsh](https://www.zsh.org/) - Powerful interactive shell.
 
 ## Shell Utilities
@@ -220,13 +221,6 @@ A curated list of fantastically awesome command-line software for macOS. This li
 ## Text Editors
 
 - [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor.
-
-## Unix Shells
-*Command-line Interpreters*
-
-- [Elvish](https://github.com/elves/elvish) - A friendly and expressive Unix shell.
-- [Fish](http://fishshell.com/) - The user-friendly command line shell.
-- [zsh](http://zsh.sourceforge.net/) - A shell designed for interactive use.
 
 ## Version Control
 *Version Control utilites*
