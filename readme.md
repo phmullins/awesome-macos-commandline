@@ -241,6 +241,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ## Writing
 
+- [mdbook](https://rust-lang.github.io/mdBook/) - Rust crate to create books using Markdown files.
 - [Proselint](http://proselint.com/) - A linter for prose.
 
 ## Author
