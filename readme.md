@@ -217,6 +217,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [statik](https://getstatik.com/) - Static web site generator. 
 - [stow](https://www.gnu.org/software/stow/) - A symlink farm manager.
 - [zazu](http://zazuapp.org/) - An open source app launcher.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 
 ## Text Editors
 
