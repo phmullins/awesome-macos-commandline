@@ -227,6 +227,8 @@ A curated list of fantastically awesome command-line software for macOS. This li
 *Version Control utilites*
 
 - [Gitless](http://gitless.com/) - A simple version control system built on top of Git.
+- [LazyGit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
+- [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. 
 
 ## Video
 
