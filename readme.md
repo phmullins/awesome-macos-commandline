@@ -177,6 +177,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
 - [exa](https://the.exa.website/) - exa is a modern replacement for ls.
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to find.
+- [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 - [ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface.
 - [pv](https://www.ivarch.com/programs/pv.shtml) - Monitor the progress of data through a pipeline.
