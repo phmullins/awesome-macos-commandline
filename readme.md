@@ -140,6 +140,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Legit](http://www.git-legit.org/) - Legit is a complementary command-line interface for Git.
 - [Marathon](https://github.com/JohnSundell/Marathon) - Run and manage your Swift scripts.
 - [Paket](https://fsprojects.github.io/Paket/index.html) - A dependency manager for .NET and mono projects.
+- [phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool.
 - [Refined](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface.
 - [Perfect](https://www.perfect.org/) - Modern web framework for Swift.
 - [rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment.
