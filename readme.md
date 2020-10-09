@@ -14,6 +14,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [File Managers](#file-managers)
 - [Graphics](#graphics)
 - [Infrastructure Management](#infrastructure-management)
+- [Miscellaneous](#miscellaneous)
 - [Networking](#networking)
 - [Password Managers](#password-managers)
 - [Programming](#programming)
@@ -98,6 +99,10 @@ A curated list of fantastically awesome command-line software for macOS. This li
 ## Infrastructure Management
 
 - [Terraform](https://www.terraform.io/) - Write, Plan, and Create Infrastructure as Code.
+
+## Miscellaneous
+
+- [genact](https://github.com/svenstaro/genact) - A nonsense activity generator
 
 ## Networking
 *Networking tools and utilities*
