@@ -122,7 +122,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [MacOS VPN](https://github.com/halo/macosvpn) - Create macOS VPNs programmatically.
 - [manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
 - [Storm](https://github.com/emre/storm) - Manage your SSH hosts like a boss.
-- [Transfer](https://transfer.sh/) - Easy file sharing from the command line.
+- [Transfer](https://github.com/dutchcoders/transfer.sh) - Easy file sharing from the command line.
 - [You-Get](https://you-get.org/) - Tiny download utility.
 - [youtube-dl](http://rg3.github.io/youtube-dl/) - Download videos from YouTube.com and other video sites.
 
