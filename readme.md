@@ -199,6 +199,7 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 - [Email Archiver Pro](https://emailarchiverpro.com/) - Archiving made simple.
 - [fDupes](https://github.com/adrianlopezroche/fdupes) - Identifying and/or deleting duplicate files.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go.
+- [finicky](https://github.com/johnste/finicky) - Customize which browser to start.
 - [ivy](http://mulholland.xyz/docs/ivy/) - A static website generator built in Python.
 - [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 - [Nix](https://nixos.org/nix/manual/#chap-quick-start) - Nix package manager for MacOS.
