@@ -27,6 +27,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Version Control](#version-control)
 - [Video](#video)
 - [Virtualization](#virtualization)
+- [Windows Management](#windows-management)
 - [Writing](#writing)
 
 ### Academics
@@ -161,6 +162,7 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [bat](https://github.com/sharkdp/bat) - OSS cat replacement.
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+- [bpytop](https://github.com/aristocratos/bpytop) - macOS resource monitor.
 - [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal `ls` command.
 - [dat](https://datproject.org/) - Distributed data sharing tool.
 - [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
@@ -208,6 +210,7 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 - [shiori](https://github.com/RadhiFadlillah/shiori) - Shiori is a simple bookmarks manager written in Go.
 - [statik](https://getstatik.com/) - Static web site generator. 
 - [stow](https://www.gnu.org/software/stow/) - A symlink farm manager.
+- [trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 
 ### Text Editors
@@ -217,6 +220,7 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 ### Version Control
 *Version Control utilities*
 
+- [dolt](https://github.com/dolthub/dolt) - It's Git for Data.
 - [Gitless](http://gitless.com/) - A simple version control system built on top of Git.
 - [Gripp]() - Preview GitHub Markdown files locally before committing them.
 - [Legit](http://www.git-legit.org/) - Legit is a complementary command-line interface for Git.
@@ -235,6 +239,10 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 - [Mech](https://github.com/ColdHeat/mech) - Easy command-line virtual machines.
 - [vagrant-veertu](https://github.com/veertuinc/vagrant-veertu) - Vagrant plugin for veertu.
 - [xhyve](http://www.xhyve.org/) - Lightweight OS X virtualization solution.
+
+### Windows Management
+
+- [ModMove](https://github.com/keith/modmove) - Move/Resize windows using modifiers and the mouse.
 
 ### Writing
 
