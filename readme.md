@@ -216,6 +216,7 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 ### Text Editors
 
 - [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor.
+- [nano](https://www.nano-editor.org/) - Basic text editor found on every UNIX/Linux machine.
 
 ### Version Control
 *Version Control utilities*
