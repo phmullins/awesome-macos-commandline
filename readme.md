@@ -27,6 +27,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Version Control](#version-control)
 - [Video](#video)
 - [Virtualization](#virtualization)
+- [Web Utilities](#web-utilities)
 - [Windows Management](#windows-management)
 - [Writing](#writing)
 
@@ -217,6 +218,7 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 
 - [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor.
 - [nano](https://www.nano-editor.org/) - Basic text editor found on every UNIX/Linux machine.
+- [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files.
 
 ### Version Control
 *Version Control utilities*
@@ -240,6 +242,10 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 - [Mech](https://github.com/ColdHeat/mech) - Easy command-line virtual machines.
 - [vagrant-veertu](https://github.com/veertuinc/vagrant-veertu) - Vagrant plugin for veertu.
 - [xhyve](http://www.xhyve.org/) - Lightweight OS X virtualization solution.
+
+### Web Utilities
+
+- [Webarchiver](https://github.com/newzealandpaul/webarchiver) - Create Safari .webarchive files.
 
 ### Windows Management
 
