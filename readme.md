@@ -10,6 +10,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Communication](#communication)
 - [Compression](#compressioin)
 - [Databases](#databases)
+- [Database Utilities](#database-utilities)
 - [DevOps](#devops)
 - [File Managers](#file-managers)
 - [Graphics](#graphics)
@@ -17,6 +18,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Miscellaneous](#miscellaneous)
 - [Networking](#networking)
 - [Password Managers](#password-managers)
+- [Plan 9 Tools](#plan-9-tools)
 - [Programming](#programming)
 - [Searching](#searching)
 - [Security](#security)
@@ -32,12 +34,14 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Writing](#writing)
 
 ### Academics
-*Misc academic tools and utilities*
+
+*Misc academic tools and utilities.*
 
 - [jrnl](http://jrnl.sh/advanced.html) - Collect your thoughts and notes.
 - [Insect](https://github.com/sharkdp/insect) - High precision scientific calculator.
 
 ### Audio
+
 *Audio players, editors, and converters.*
 
 - [csound](https://csound.com/) - A Sound and Music Computing System.
@@ -56,6 +60,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Saltstack](https://www.saltstack.com/) - Control and secure your digital infrastructure.
 
 ### Backups
+
 *Backup software.*
 
 - [Rclone](http://rclone.org/) - A command line program to sync files and directories to the cloud.
@@ -64,7 +69,9 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [s3cmd](http://s3tools.org/usage) - Command Line S3 Client Software and S3 Backup.
 
 ### Communication
-*Communication Applications*
+
+*Communication Applications.*
+
 - [mastodon](https://github.com/tootsuite/mastodon) - Self-hosted, globally interconnected microblogging community.
 - [RaspChat](http://beta.raspchat.com) - A chat server that can run on Raspberry Pi.
 - [The Lounge](https://thelounge.github.io/) - Self-hosted web IRC client.
@@ -75,7 +82,8 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [p7zip](http://p7zip.sourceforge.net/) - A port of 7za.exe for POSIX systems.
 
 ### Databases
-*Databases and database utilities*
+
+*Databases and database utilities.*
 
 - [mycli](http://mycli.net/) - A Terminal Client for MySQL.
 - [Pex](https://github.com/petere/pex) - Light-weight package manager for PostgreSQL.
@@ -83,14 +91,20 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Postgrest](http://postgrest.com) - REST API for any Postgres database.
 - [RethinkDB](https://rethinkdb.com/) - The open-source database for the realtime web.
 
+### Database Utilities
+
+- [mssql-cli](https://github.com/dbcli/mssql-cli) - SQL Server client w/auto-completion and syntax highlighting. 
+
 ### DevOps
-*DevOps tools and utilities*
+
+*DevOps tools and utilities.*
 
 - [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally.
 - [Minishift](https://github.com/minishift/minishift) - Run OpenShift locally.
 
 ### File Managers
-*File management tools and utilities*
+
+*File management tools and utilities.*
 
 - [diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator. 
 - [nnn](https://github.com/jarun/nnn) - The missing terminal file browser.
@@ -100,9 +114,13 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ### Graphics
 
+*Graphics tools and Utilities for macOS.*
+
 - [imgp](https://github.com/jarun/imgp) - Multi-core image resizer and rotator.
 
 ### Infrastructure Management
+
+*Infrastructure Management tools for macOS.*
 
 - [Terraform](https://www.terraform.io/) - Write, Plan, and Create Infrastructure as Code.
 
@@ -111,7 +129,8 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [genact](https://github.com/svenstaro/genact) - A nonsense activity generator
 
 ### Networking
-*Networking tools and utilities*
+
+*Networking tools and utilities.*
 
 - [Armor](https://armor.labstack.com/) - Uncomplicated, modern HTTP server.
 - [Caddy](https://caddyserver.com/) - Caddy is the HTTP/2 web server with automatic HTTPS.
@@ -130,6 +149,8 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ### Password Managers
 
+*Various password managers for macOS.*
+
 - [1pass](https://github.com/georgebrock/1pass) - A command line interface for 1Password.
 - [Ironclad](https://github.com/dmulholland/ironclad) - A command line password manager.
 - [pass](https://www.passwordstore.org/) - The standard unix password manager.
@@ -138,12 +159,20 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [onepw](https://github.com/mkideal/onepw) - A command line tool for managing passwords.
 - [Tomb](https://github.com/dyne/Tomb) - The Crypto Undertaker.
 
+### Plan 9 Tools
+
+*Plan 9 tools, Utilities, and OS files.*
+
+- [rc](http://doc.cat-v.org/plan_9/4th_edition/papers/rc) - Rc is a command interpreter for Plan 9.
+
 ### Programming
+
 *Various tools to aid in programming.*
 
-Check out Awesome Coding/Programming for macOS for a full list of programming languages and Utilities.
+- Check out Awesome Coding/Programming for macOS for a full list of programming languages and Utilities.
 
 ### Searching
+
 *Tools to help you find stuff*
 
 - [fzy](https://github.com/jhawthorn/fzy) - A better fuzzy finder.
@@ -152,6 +181,8 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 
 ### Shells
 
+*Various UNIX shells for macOS*
+
 - [Elvish](https://github.com/elves/elvish) - A friendly and expressive Unix shell.
 - [fish](https://fishshell.com/) - User-friendly command-line shell.
 - [Nu Shell](https://github.com/nushell/nushell) - A modern shell for the GitHub era.
@@ -159,6 +190,8 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 - [zsh](https://www.zsh.org/) - Powerful interactive shell.
 
 ### Shell Utilities
+
+*Shell Utilities for macOS.*
 
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [bat](https://github.com/sharkdp/bat) - OSS cat replacement.
@@ -183,7 +216,8 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 - [zenith](https://github.com/bvaisvil/zenith) - Like top or htop but with zoom-able charts, network, and disk usage. 
 
 ### Security
-*Various security tools*
+
+*Various security tools.*
 
 - [hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker.
 - [Knox](https://github.com/pinterest/knox) - A secret management service.
@@ -221,6 +255,7 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files.
 
 ### Version Control
+
 *Version Control utilities*
 
 - [dolt](https://github.com/dolthub/dolt) - It's Git for Data.
@@ -236,6 +271,7 @@ Check out Awesome Coding/Programming for macOS for a full list of programming la
 - [Annie](https://github.com/iawia002/annie) - a fast, simple and clean video downloader.
 
 ### Virtualization
+
 *Virtualization tools.*
 
 - [Kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM.
