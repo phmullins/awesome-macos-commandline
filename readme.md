@@ -26,6 +26,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Shell Utilities](#shell-utilities)
 - [System](#system)
 - [Text Editors](#text-editors)
+- [Terminal Emulators](#terminal-emulators)
 - [Version Control](#version-control)
 - [Video](#video)
 - [Virtualization](#virtualization)
@@ -248,6 +249,11 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 
+### Terminal Emulators
+
+- [x3270](http://x3270.bgp.nu/) - An IBM 3270 terminal emulator.
+- [xTerm](https://invisible-island.net/xterm/) - A terminal emulator for the X Window System. 
+
 ### Text Editors
 
 - [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor.
@@ -258,6 +264,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Version Control utilities*
 
+- [Bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI.
 - [dolt](https://github.com/dolthub/dolt) - It's Git for Data.
 - [Gitless](http://gitless.com/) - A simple version control system built on top of Git.
 - [Gripp]() - Preview GitHub Markdown files locally before committing them.
