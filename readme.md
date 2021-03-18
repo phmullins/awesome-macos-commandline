@@ -266,6 +266,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 - [Bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI.
 - [dolt](https://github.com/dolthub/dolt) - It's Git for Data.
+- [GitFresh](https://github.com/imsky/git-fresh) - Keep your Git repo fresh. 
 - [Gitless](http://gitless.com/) - A simple version control system built on top of Git.
 - [Gripp]() - Preview GitHub Markdown files locally before committing them.
 - [Legit](http://www.git-legit.org/) - Legit is a complementary command-line interface for Git.
