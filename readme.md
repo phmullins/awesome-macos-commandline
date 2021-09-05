@@ -141,6 +141,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [hippo](https://github.com/cortesi/hippo) - Host configuration file management based on git.
 - [homebridge](https://github.com/nfarina/homebridge) - HomeKit support for the impatient.
 - [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client.
+- [lychee](https://github.com/lycheeverse/lychee) - Link checker written in Rust
 - [MacOS VPN](https://github.com/halo/macosvpn) - Create macOS VPNs programmatically.
 - [manssh](https://github.com/xwjdsh/manssh) - Manage your ssh alias configs easily.
 - [Storm](https://github.com/emre/storm) - Manage your SSH hosts like a boss.
