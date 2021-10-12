@@ -235,6 +235,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 - [CollectD](http://collectd.org/) - System statistics collection daemon.
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool.
 - [Email Archiver Pro](https://emailarchiverpro.com/) - Archiving made simple.
 - [fDupes](https://github.com/adrianlopezroche/fdupes) - Identifying and/or deleting duplicate files.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder written in Go.
