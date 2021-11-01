@@ -128,6 +128,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 ### Miscellaneous
 
 - [genact](https://github.com/svenstaro/genact) - A nonsense activity generator
+- [nb](https://xwmx.github.io/nb/) -  Note‑taking, bookmarking, archiving, knowledge-base.
 
 ### Networking
 
