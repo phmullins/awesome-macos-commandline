@@ -272,7 +272,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [GitFresh](https://github.com/imsky/git-fresh) - Keep your Git repo fresh. 
 - [Gitless](http://gitless.com/) - A simple version control system built on top of Git.
 - [Gripp]() - Preview GitHub Markdown files locally before committing them.
-- [Legit](http://www.git-legit.org/) - Legit is a complementary command-line interface for Git.
+- [Legit](https://frostming.github.io/legit/) - Legit is a complementary command-line interface for Git.
 - [LazyGit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 - [Refined](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface.
 - [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. 
