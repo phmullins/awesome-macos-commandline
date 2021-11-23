@@ -14,6 +14,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [DevOps](#devops)
 - [File Managers](#file-managers)
 - [Graphics](#graphics)
+- [Information](#information)
 - [Infrastructure Management](#infrastructure-management)
 - [Miscellaneous](#miscellaneous)
 - [Networking](#networking)
@@ -118,6 +119,13 @@ A curated list of fantastically awesome command-line software for macOS. This li
 *Graphics tools and Utilities for macOS.*
 
 - [imgp](https://github.com/jarun/imgp) - Multi-core image resizer and rotator.
+
+### Information
+
+- [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool.
+- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
+- [onefetch](https://github.com/o2sh/onefetch) - A command-line Git information tool written in Rust.
+- [pfetch](https://github.com/dylanaraps/pfetch/) - A pretty system information tool.
 
 ### Infrastructure Management
 
