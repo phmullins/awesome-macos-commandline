@@ -180,7 +180,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Various tools to aid in programming.*
 
-- Check out Awesome Coding/Programming for macOS for a full list of programming languages and Utilities.
+- [datasette](https://docs.datasette.io/en/stable/) - An open source multi-tool for exploring and publishing data.
 
 ### Searching
 
