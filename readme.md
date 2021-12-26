@@ -137,6 +137,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 - [genact](https://github.com/svenstaro/genact) - A nonsense activity generator
 - [nb](https://xwmx.github.io/nb/) -  Note‑taking, bookmarking, archiving, knowledge-base.
+- [vice](https://sourceforge.net/projects/vice-emu/) -  Emulates the C64, C64-DTV, C128, VIC20, PET, PLUS4, and CBM-II.
 
 ### Networking
 
@@ -242,6 +243,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ### System
 
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Decrypt data without knowing the key or cipher. Uses ML.
 - [CollectD](http://collectd.org/) - System statistics collection daemon.
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool.
