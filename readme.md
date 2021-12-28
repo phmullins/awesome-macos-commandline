@@ -229,8 +229,10 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ### Security
 
-*Various security tools.*
+*Various security and encryption tools.*
 
+- [bcrypt](http://bcrypt.sourceforge.net/) - Bcrypt is a cross platform file encryption utility.
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Decrypt data without knowing the key or cipher. Uses ML.
 - [hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker.
 - [Knox](https://github.com/pinterest/knox) - A secret management service.
 - [MacOS Auditor](https://github.com/jipegit/OSXAuditor) - A free MacOS computer forensics tool.
@@ -243,7 +245,6 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ### System
 
-- [Ciphey](https://github.com/Ciphey/Ciphey) - Decrypt data without knowing the key or cipher. Uses ML.
 - [CollectD](http://collectd.org/) - System statistics collection daemon.
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool.
