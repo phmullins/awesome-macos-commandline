@@ -263,6 +263,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [stow](https://www.gnu.org/software/stow/) - A symlink farm manager.
 - [tmate](https://tmate.io/) - Instant terminal sharing.
 - [trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
+- [utimer](https://launchpad.net/utimer) - A multifunction timer.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 
 ### Terminal Emulators
