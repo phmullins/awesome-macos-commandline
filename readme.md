@@ -16,6 +16,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Graphics](#graphics)
 - [Information](#information)
 - [Infrastructure Management](#infrastructure-management)
+- [Markdown](#markdown)
 - [Miscellaneous](#miscellaneous)
 - [Networking](#networking)
 - [Password Managers](#password-managers)
@@ -132,6 +133,11 @@ A curated list of fantastically awesome command-line software for macOS. This li
 *Infrastructure Management tools for macOS.*
 
 - [Terraform](https://www.terraform.io/) - Write, Plan, and Create Infrastructure as Code.
+
+### Markdown
+
+- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 
+- [mdp](https://github.com/visit1985/mdp) - Markdown presentation tool.
 
 ### Miscellaneous
 
