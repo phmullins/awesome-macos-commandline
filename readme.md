@@ -295,6 +295,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Legit](https://frostming.github.io/legit/) - Legit is a complementary command-line interface for Git.
 - [LazyGit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 - [Refined](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface.
+- [Tig](https://jonas.github.io/tig/) - Text-mode interface for Git.
 - [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. 
 
 ### Video
