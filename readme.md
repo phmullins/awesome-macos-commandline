@@ -215,6 +215,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [bat](https://github.com/sharkdp/bat) - OSS cat replacement.
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [bpytop](https://github.com/aristocratos/bpytop) - macOS resource monitor.
+- [clipslots](https://github.com/olafglad/clipSlots) - Named clipboard slots with global hotkeys.
 - [colorls](https://github.com/athityakumar/colorls) - Beautify the terminal `ls` command.
 - [dat](https://datproject.org/) - Distributed data sharing tool.
 - [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
