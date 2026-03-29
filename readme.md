@@ -188,6 +188,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 *Various tools to aid in programming.*
 
 - [datasette](https://docs.datasette.io/en/stable/) - An open source multi-tool for exploring and publishing data.
+- [claude-dash](https://github.com/krabat-l/claude-dash) - Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status.
 
 ### Searching
 
