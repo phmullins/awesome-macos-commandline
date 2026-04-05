@@ -261,6 +261,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz!
 - [ivy](http://mulholland.xyz/docs/ivy/) - A static website generator built in Python.
 - [mas-cli](https://github.com/mas-cli/mas) - Mac App Store command line interface.
+- [moody](https://github.com/dinakars777/moody) - Hardware event personality daemon for macOS. Monitors USB, charger, lid events and responds with customizable personalities.
 - [Nix](https://nixos.org/nix/manual/#chap-quick-start) - Nix package manager for MacOS.
 - [progress](https://github.com/Xfennec/progress) - Tool to show progress for cp, mv, dd.
 - [rmlint](http://rmlint.readthedocs.io) - Remove duplicates and other lint from your filesystem.
