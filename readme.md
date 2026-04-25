@@ -323,6 +323,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 - [mdbook](https://rust-lang.github.io/mdBook/) - Rust crate to create books using Markdown files.
 - [Proselint](http://proselint.com/) - A linter for prose.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - Removes named AI writing patterns from text. Targets tricolons, em-dash overuse, hedging stacks, and overused vocabulary. CLI and MCP server, MIT licensed.
 
 ### Author
 
