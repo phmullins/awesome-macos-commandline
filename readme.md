@@ -187,6 +187,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Various tools to aid in programming.*
 
+- [assembly-repl](https://github.com/pirate/assembly-repl) - Native raw assembly, LLVM IR, C, C++, and Objective-C REPLs for macOS and Linux.
 - [datasette](https://docs.datasette.io/en/stable/) - An open source multi-tool for exploring and publishing data.
 
 ### Searching
