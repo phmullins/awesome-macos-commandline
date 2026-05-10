@@ -211,6 +211,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Shell Utilities for macOS.*
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Inspect AI coding agent session logs, token usage, cost, latency, and health in a local TUI.
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [bat](https://github.com/sharkdp/bat) - OSS cat replacement.
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
