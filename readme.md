@@ -151,6 +151,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 - [Armor](https://armor.labstack.com/) - Uncomplicated, modern HTTP server.
 - [Caddy](https://caddyserver.com/) - Caddy is the HTTP/2 web server with automatic HTTPS.
+- [Clipport](https://github.com/arihantsethia/clipport) - Paste local clipboard text and images into remote iTerm SSH sessions.
 - [Croc](https://github.com/schollz/croc) - Securely send things from one computer to another.
 - [Duck](https://duck.sh/) - Cyberduck for the command line interface (CLI).
 - [Hget](https://github.com/huydx/hget) - Rocket fast download accelerator.
