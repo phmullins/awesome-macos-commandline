@@ -120,6 +120,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 *Graphics tools and Utilities for macOS.*
 
 - [imgp](https://github.com/jarun/imgp) - Multi-core image resizer and rotator.
+- [SnapTidy](https://github.com/chicogong/snaptidy) - AI-powered photo and video organizer for macOS. Deduplicate via SHA-256, pHash, and Apple ML vectors; cross-format detection (HEIC/JPEG); EXIF editing; GPS geocoding; privacy risk detection.
 
 ### Information
 
