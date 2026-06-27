@@ -248,6 +248,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
 - [Vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments.
 - [vuls](https://github.com/future-architect/vuls) - Go-based, agentless vulnerability scanner.
+- [Raccoon](https://github.com/thousandflowers/Raccoon) - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
 ### System
 
