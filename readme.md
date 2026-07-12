@@ -242,13 +242,13 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [hashcat](https://hashcat.net/hashcat/) - World's fastest password cracker.
 - [Knox](https://github.com/pinterest/knox) - A secret management service.
 - [MacOS Auditor](https://github.com/jipegit/OSXAuditor) - A free MacOS computer forensics tool.
+- [Raccoon](https://github.com/thousandflowers/Raccoon) - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 - [Safe](https://github.com/starkandwayne/safe) - A CLI front-end for the Vault app.
 - [SeKey](https://github.com/ntrippar/sekey) - Authenticate to UNIX/Linux SSH servers using the Secure Enclave.
 - [Spoof](https://github.com/feross/spoof) - Change your MAC address for debugging.
 - [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
 - [Vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments.
 - [vuls](https://github.com/future-architect/vuls) - Go-based, agentless vulnerability scanner.
-- [Raccoon](https://github.com/thousandflowers/Raccoon) - CLI toolkit for macOS security audits, fleet management via SSH, baseline drift detection, and remediation reports. Zero dependencies, agentless.
 
 ### System
 
