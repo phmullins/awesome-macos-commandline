@@ -141,6 +141,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ### Miscellaneous
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local x402 payment runtime and stdio MCP tools for AI agents; Apple Silicon macOS and Node 24 only.
 - [genact](https://github.com/svenstaro/genact) - A nonsense activity generator
 - [nb](https://xwmx.github.io/nb/) -  Note‑taking, bookmarking, archiving, knowledge-base.
 - [vice](https://sourceforge.net/projects/vice-emu/) -  Emulates the C64, C64-DTV, C128, VIC20, PET, PLUS4, and CBM-II.
