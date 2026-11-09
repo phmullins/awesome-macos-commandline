@@ -44,6 +44,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 - [Insect](https://github.com/sharkdp/insect) - High precision scientific calculator.
 
 ### Audio
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS companion for Now Playing media beside the Dock.
 
 *Audio players, editors, and converters.*
 
